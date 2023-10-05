@@ -4,7 +4,7 @@ public class Main {
 	
 	public static class A {
 		public String meth() {
-			return "Invoking method froom class A";
+			return "Invoking method from class A";
 		}
 	}
 	
