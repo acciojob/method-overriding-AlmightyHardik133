@@ -10,7 +10,7 @@ public class Main {
 	
 	public static class B extends A {
 
-		@Override
+		
 		public String meth() {
 			// TODO Auto-generated method stub
 			return "Method is overridden in Extended class B";
